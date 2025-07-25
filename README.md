@@ -35,9 +35,9 @@ All plots are saved in the `images/` folder. Below are key visuals:
 | Visualization | Description |
 |---------------|-------------|
 | ![Target Distribution](images/heart_disease_distribution.png) | Distribution of heart disease cases |
-| ![Age vs Heart Disease](images/age_vs_heart_disease.png) | Relationship between Age and Heart Disease |
-| ![Chest Pain Types](images/chest_pain_distribution.png) | Distribution of Chest Pain Types |
-| ![Correlation Heatmap](images/heatmap_correlation.png) | Correlation matrix of features |
+| ![Age vs Heart Disease](images/Heart_disease_gender.png) | Relationship between heart disease and gender |
+| ![Chest Pain Types](images/chestpain_distribution.png) | Distribution of Chest Pain Types |
+| ![Correlation Heatmap](images/correlation_heatmap.png) | Correlation matrix of features |
 
 ---
 
